@@ -1,0 +1,11 @@
+log_id,machine_id,timestamp,event_type,event_description
+1,M01,2023-01-01 08:00:00,maintenance,Regular scheduled maintenance
+2,M01,2023-01-10 14:22:15,failure,Bearing failure detected
+3,M02,2023-01-12 09:15:43,maintenance,Emergency maintenance after vibration anomaly
+4,M01,2023-02-02 17:30:00,failure,Overheating in motor
+5,M03,2023-02-14 11:05:12,maintenance,Replaced worn-out belt
+6,M02,2023-03-01 08:45:23,failure,Vibration sensor malfunction
+7,M03,2023-03-05 10:30:00,maintenance,Cooling system check
+8,M01,2023-03-10 16:12:34,failure,Oil leakage detected
+9,M03,2023-04-02 07:45:12,maintenance,Checked for electrical insulation issues
+10,M02,2023-04-15 12:00:00,failure,Unexpected power shutdown
